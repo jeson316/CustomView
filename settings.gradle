@@ -1,2 +1,3 @@
+include ':CircleProgress'
 include ':app'
 rootProject.name = "CustomView"

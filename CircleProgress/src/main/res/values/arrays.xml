@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="defaut_colors">
+        <item>0xB0E6092C</item>
+        <item>0xB0C6114D</item>
+        <item>0xB06CAA94</item>
+        <item>0xB06AC304</item>
+        <item>0xB0868949</item>
+        <item>0xB0E0C9D4</item>
+    </integer-array>
+
+</resources>

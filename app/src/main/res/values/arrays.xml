@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="progress_colors">
+
+        <item>0x00ffffff</item>
+        <item>0x00ffffff</item>
+        <item>0x00ffffff</item>
+
+        <item>0xff364E72</item>
+        <item>0xffF16980</item>
+        <item>0xff009FDF</item>
+        <item>0xff9ACA3C</item>
+
+        <item>0xff364E72</item>
+        <item>0xffF16980</item>
+        <item>0xff009FDF</item>
+        <item>0xff9ACA3C</item>
+
+        <item>0xff364E72</item>
+        <item>0xffF16980</item>
+
+    </integer-array>
+
+</resources>
