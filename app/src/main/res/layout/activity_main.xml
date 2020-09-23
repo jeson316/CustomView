@@ -5,6 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:id="@+id/container_view"
+    android:background="@drawable/mm"
     tools:context=".MainActivity">
 
     <TextView
@@ -17,9 +19,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:layout_width="match_parent"
+        android:id="@+id/image_input"
+        android:layout_width="240dp"
         android:layout_height="0dp"
         android:src="@drawable/mm"
+        android:scaleType="centerCrop"
         android:layout_weight="1"/>
 
     <ImageView
